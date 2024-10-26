@@ -1,0 +1,10 @@
+1 8.0 0 kieu chinh
+1 17.0 1 kieu chinh
+2 8.0 0 thuy tien
+2 17.0 1 thuy tien
+3 8.0 0 thao trang
+3 17.0 1 thao trang
+4 8.0 0 anh minh
+4 17.0 1 anh minh
+5 8.0 0 minh tam
+5 17.0 1 minh tam

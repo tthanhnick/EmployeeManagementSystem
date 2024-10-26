@@ -1,0 +1,5 @@
+1 12000 kieu chinh
+2 12000 thuy tien
+3 12000 thao trang
+4 12000 anh minh
+5 12000 minh tam
